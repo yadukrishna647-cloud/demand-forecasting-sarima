@@ -1,0 +1,5 @@
+,MAE,RMSE,MAE improvement vs Seasonal Naive (%)
+"SARIMA(0, 1, 2)x(0, 1, 1, 7)",4.91,6.04,24.0
+"ARIMA(2,1,2)",5.3,6.56,18.0
+Seasonal Naive,6.46,7.76,0.0
+Naive,8.78,10.15,-35.9
